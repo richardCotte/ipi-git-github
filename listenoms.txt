@@ -1,5 +1,5 @@
 VILLOUD Pierre-Juliens
-BLAKA non
+BLAKA test
 COTTE Richard Pierre
 DUCUGNON
 DUPONT
